@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Rodr1go77
-- 👀 I’m interested in Data Science and Analytics.
-- 🌱 I’m currently learning R.
+- 👀 I’m interested in Web Development,Data Science and Analytics.
+- 🌱 I’m currently learning HTML CSS JS
 - 💞️ I’m looking to collaborate on business intelligence projects.
+- | HTML | CSS | JS | R | Python| Power Platform|
 - 📫 How to reach me ...
 
 <!---
