@@ -1,3 +1,5 @@
+📝🌐👤 **Personal**
+
 - 👤 I’m @Rodr1go77 / Eu sou o @Rodr1go77
 - 👀 I’m interested in Web Development, Data Science, and Analytics / Tenho interesse em Desenvolvimento Web/Mobile, Ciência de Dados e Analytics
 - 🌱 I’m currently learning Web Development and Artificial Intelligence / Atualmente estou aprendendo Desenvolvimento Web e Inteligência Artificial
