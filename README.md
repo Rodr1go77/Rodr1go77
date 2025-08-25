@@ -16,10 +16,13 @@
 | SQL |
 
 **BI / Low-Code**  
-| Power BI | Power Apps |
+| Power BI |  
+| Power Apps |
 
 **Automation & AI**  
-| Power Automate (Cloud & Desktop) | AI Builder | Copilot Studio |
+| Power Automate (Cloud & Desktop) |  
+| AI Builder |   
+| Copilot Studio |
 
 <!---
 Rodr1go77/Rodr1go77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
