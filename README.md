@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development and Artificial Intelligence / Atualmente estou aprendendo Desenvolvimento Web e Inteligência Artificial
 - 💞️ I’m looking to collaborate on Web/Mobile Application Development and Business Intelligence projects / Procuro colaborar em projetos de Desenvolvimento Web/Mobile e Business Intelligence
 
-## ⚡ Tech Stack
+⚡ Tech Stack
 **Frontend**  
 | HTML |  
 | CSS (Media Queries, Flexbox, Grid)| Tailwind |   
