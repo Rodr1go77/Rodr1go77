@@ -24,6 +24,7 @@
 
 **Automation & AI**  
 | Power Automate (Cloud & Desktop) |  
+| N8N |
 | AI Builder |   
 | Copilot Studio |
 
