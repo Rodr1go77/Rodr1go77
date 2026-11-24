@@ -13,7 +13,10 @@
 | JavaScript | jQuery |  
 | React | Material UI |
 
-**Backend / Data**  
+**Backend**  
+| C# | Java | SpringBoot | Javalin | 
+
+**Data**  
 | Python | Pandas | MatplotLib | Seaborn | Numpy |    
 | R | Tidyverse | Shiny | Selenium |   
 | SQL |
