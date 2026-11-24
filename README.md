@@ -11,13 +11,17 @@
 | HTML |  
 | CSS (Media Queries, Flexbox, Grid)| Tailwind |   
 | JavaScript | jQuery |  
-| React | Material UI |
+| React | Material UI |  
 
 **Backend**  
 | C# | Java | SpringBoot | Javalin | 
 
+**AI**   
+| Copilot Studio | AI Builder |  
+| N8N |
+
 **Data**  
-| Python | Pandas | MatplotLib | Seaborn | Numpy |    
+| Python | Pandas | MatplotLib | Seaborn | Numpy | Streamlit |  
 | R | Tidyverse | Shiny | Selenium |   
 | SQL |
 
@@ -25,11 +29,9 @@
 | Power BI |  
 | Power Apps |
 
-**Automation & AI**  
-| Power Automate (Cloud & Desktop) |  
-| N8N |
-| AI Builder |   
-| Copilot Studio |
+**Automation**  
+| Power Automate (Cloud & Desktop) | Selenium for Python | 
+
 
 <!---
 Rodr1go77/Rodr1go77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
